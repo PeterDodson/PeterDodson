@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeterDodson
 - 👀 I’m interested in Electronics , C# and general control engineering
-- 🌱 I’m currently work with C# under the .Net framework / C on PICs
+- 🌱 I’m currently work with C# under the .Net framework : C on PICs : bespoke S/W on Boiler controls
 - 💞️ I use the MKS version control system from PTC, and now want to learn git
 
 <!---
